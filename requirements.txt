@@ -1,5 +1,10 @@
 numpy
 pandas
 seaborn
+matplotlib
 pyreadstat
 statsmodels
+scipy
+pingouin
+ipykernel 
+requests
