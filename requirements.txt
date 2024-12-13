@@ -6,5 +6,4 @@ pyreadstat
 statsmodels
 scipy
 pingouin
-ipykernel 
-requests
+ipykernel
