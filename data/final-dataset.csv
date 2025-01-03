@@ -1,4 +1,4 @@
-Match ID,ONS ID,constituency_name,region_name,constituency_type,party,candidate_gender,former_mp,votes_24,share_24,valid_votes_24,credible_candidates_24,won_24,winner_19,total_votes_19,max_votes_19,votes_19,position_19,raw_diff_19,pc_diff_19,target_24
+campaign_ID,constituency_ID,constituency_name,region_name,constituency_type,party,candidate_gender,former_mp,votes_24,share_24,valid_votes_24,credible_candidates_24,won_24,winner_19,total_votes_19,max_votes_19,votes_19,position_19,raw_diff_19,pc_diff_19,target_24
 E14001063_Green,E14001063,Aldershot,South East,Borough,Green,Male,No,2155,0.044393,48544,4,0,Con,51828,29453.0,1839,4.0,27614.0,0.5328008026549356,0
 E14001063_LD,E14001063,Aldershot,South East,Borough,LD,Male,No,4052,0.083471,48544,4,0,Con,51828,29453.0,9068,3.0,20385.0,0.3933202130122714,0
 E14001063_Lab,E14001063,Aldershot,South East,Borough,Lab,Female,No,19764,0.407136,48544,4,1,Con,51828,29453.0,11468,2.0,17985.0,0.34701319749942117,1
